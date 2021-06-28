@@ -1,3 +1,13 @@
+/*tag 속성 정의*/
 body {
   background: orange;
+}
+
+/*class 정의*/
+
+/*font 정의*/
+@font-face {
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap')
+    format('woff');
+
 }
